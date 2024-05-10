@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, be very welcome to my profile <br>🌱 Graduando em Ciências de Dados (UNIVESP), no entanto já sou Pós Graduado em Marketing Digital Estratégico. Sigo estudando e me aperfeiçoando em programação em Python para Data Science, Big Queries and SnowFlake, SQL | Big Data, Redshift Amazon, Data Migration, Azure Microsoft e Google Data Studio, Google Looker<br>💞️ Amo fazer parcerias e trocar conhecimento na área buscando sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo.
+👋 Hi, be very welcome to my profile <br>🌱 Graduando em Ciências de Dados (UNIVESP), no entanto já sou Pós Graduado em Marketing Digital Estratégico. Sigo estudando e me aperfeiçoando em ETL processes, SQL, programação em Python, #Pandas, Engenharia de Dados e Big Data<br>💞️ Amo fazer parcerias e trocar conhecimento na área buscando sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo.
 
 
 ## 🌐 Socials:
