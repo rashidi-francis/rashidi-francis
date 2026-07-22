@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, be very welcome to my profile <br>🌱 Sou Pós Graduado em Marketing Digital Estratégico. Sigo estudando e me aperfeiçoando em Dev front e back end, API´s integrações, Análise de dados e Big Data ETL processes, SQL, programação em Python, #Pandas<br>💞️ Amo fazer parcerias e trocar conhecimento na área buscando sempre evoluir e ampliar meu leque de conhecimentos, aprendendo continuamente novas tecnologias e agregando mais conhecimento ao currículo.
+👋 Hi, be very welcome to my profile <br>🌱 I hold a postgraduate degree in Strategic Digital Marketing. I continue to study and hone my skills in front-end and back-end development, API integrations, data analysis, Big Data ETL processes, SQL, and Python programming (#Pandas).<br>💞️ I love forming partnerships and exchanging knowledge in the field, always striving to grow and broaden my expertise by continuously learning new technologies and adding to my professional background.
 
 
 ## 🌐 Socials:
